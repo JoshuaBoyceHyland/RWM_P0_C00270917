@@ -1,5 +1,5 @@
 {
-    "name": "Tests",
+    "name": "Mod3FilterTests",
     "rootNamespace": "",
     "references": [
         "UnityEngine.TestRunner",
